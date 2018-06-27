@@ -3,7 +3,7 @@ import './Listings.css';
 class Listings extends React.Component {
   render () {
     return (
-      <div className="listings">
+      <div className="Listings">
         <h2>Listings</h2>
       </div>
     );
